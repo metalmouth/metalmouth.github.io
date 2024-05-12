@@ -1,0 +1,2888 @@
+.catalog.root {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 2639px;
+  background-color: white;
+  overflow: hidden;
+}
+
+::placeholder {
+   text-align: center;
+   font: 500 16px/1.25 "Barlow", Helvetica, Arial, serif;
+}
+
+*:focus {
+    outline: none;
+}
+
+input[type="text"]
+{
+    font: 500 16px/1.25 "Barlow", Helvetica, Arial, serif;
+}
+
+.catalog .hero_title {
+  position: absolute;
+  top: 175.97px;
+  right: 1368px;
+  bottom: 2424.03px;
+  left: 161px;
+  display: flex;
+  align-items: center;
+  width: 391px;
+  height: 40px;
+  font: 600 40px/1 "Barlow", Helvetica, Arial, serif;
+  color: #0e0e0f;
+  letter-spacing: -0.3px;
+}
+.catalog .rect {
+  position: absolute;
+  top: 2218px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  width: 1920px;
+  height: 422px;
+  background-color: #3d3d3d;
+}
+.catalog .line {
+  position: absolute;
+  top: 2218px;
+  right: 160px;
+  bottom: 421px;
+  left: 160px;
+  width: 1600px;
+  height: 1px;
+}
+.catalog .highlight {
+  position: absolute;
+  top: 2299px;
+  right: 1720px;
+  bottom: 317px;
+  left: 158px;
+  display: flex;
+  align-items: center;
+  width: 42px;
+  height: 24px;
+  font: 400 16px/1.5 "Barlow", Helvetica, Arial, serif;
+  color: #fefefe;
+}
+.catalog .highlight1 {
+  position: absolute;
+  top: 2332px;
+  right: 1683px;
+  bottom: 284px;
+  left: 158px;
+  display: flex;
+  align-items: center;
+  width: 79px;
+  height: 24px;
+  font: 400 16px/1.5 "Barlow", Helvetica, Arial, serif;
+  color: #fefefe;
+}
+.catalog .highlight2 {
+  position: absolute;
+  top: 2364px;
+  right: 1692px;
+  bottom: 252px;
+  left: 158px;
+  display: flex;
+  align-items: center;
+  width: 70px;
+  height: 24px;
+  font: 400 16px/1.5 "Barlow", Helvetica, Arial, serif;
+  color: #fefefe;
+}
+.catalog .highlight11 {
+  position: absolute;
+  top: 2267px;
+  right: 1497px;
+  bottom: 351px;
+  left: 344px;
+  display: flex;
+  align-items: center;
+  width: 79px;
+  height: 22px;
+  font: 600 16px/1.37 "Barlow", Helvetica, Arial, serif;
+  color: white;
+}
+.catalog .highlight3 {
+  position: absolute;
+  top: 2299px;
+  right: 1377px;
+  bottom: 317px;
+  left: 344px;
+  display: flex;
+  align-items: center;
+  width: 199px;
+  height: 24px;
+  font: 400 16px/1.5 "Barlow", Helvetica, Arial, serif;
+  color: #fefefe;
+}
+.catalog .highlight4 {
+  position: absolute;
+  top: 2331px;
+  right: 1494px;
+  bottom: 285px;
+  left: 344px;
+  display: flex;
+  align-items: center;
+  width: 82px;
+  height: 24px;
+  font: 400 16px/1.5 "Barlow", Helvetica, Arial, serif;
+  color: #fefefe;
+}
+.catalog .highlight5 {
+  position: absolute;
+  top: 2363px;
+  right: 1413px;
+  bottom: 253px;
+  left: 344px;
+  display: flex;
+  align-items: center;
+  width: 163px;
+  height: 24px;
+  font: 400 16px/1.5 "Barlow", Helvetica, Arial, serif;
+  color: #fefefe;
+}
+.catalog .highlight6 {
+  position: absolute;
+  top: 2395px;
+  right: 1348px;
+  bottom: 221px;
+  left: 344px;
+  display: flex;
+  align-items: center;
+  width: 228px;
+  height: 24px;
+  font: 400 16px/1.5 "Barlow", Helvetica, Arial, serif;
+  color: #fefefe;
+}
+.catalog .line1 {
+  position: absolute;
+  top: 2507px;
+  right: 160px;
+  bottom: 132px;
+  left: 160px;
+  width: 1600px;
+  height: 1px;
+}
+.catalog .image {
+  position: absolute;
+  top: 2558px;
+  right: 940px;
+  bottom: 42px;
+  left: 940px;
+  width: 40px;
+  height: 40px;
+  border-radius: 20px 20px 20px 20px;
+}
+.catalog .highlight21 {
+  position: absolute;
+  top: 2267px;
+  right: 1665px;
+  bottom: 353px;
+  left: 158px;
+  display: flex;
+  align-items: center;
+  width: 97px;
+  height: 20px;
+  font: 600 16px/1.25 "Barlow", Helvetica, Arial, serif;
+  color: white;
+}
+.catalog .image2 {
+  position: absolute;
+  top: 2531px;
+  right: 204px;
+  bottom: 82px;
+  left: 1688px;
+  width: 28px;
+  height: 27px;
+}
+.catalog .image21 {
+  position: absolute;
+  top: 2530px;
+  right: 160px;
+  bottom: 83px;
+  left: 1732px;
+  width: 28px;
+  height: 27px;
+}
+.catalog .text {
+  position: absolute;
+  top: 137px;
+  right: 1702px;
+  bottom: 2486px;
+  left: 161px;
+  display: flex;
+  align-items: center;
+  width: 57px;
+  height: 17px;
+  font: 600 14px/1.21 "Barlow", Helvetica, Arial, serif;
+  color: rgba(14, 14, 15, 0.498);
+}
+.catalog .highlight31 {
+  position: absolute;
+  top: 136px;
+  right: 1674px;
+  bottom: 2485px;
+  left: 237px;
+  display: flex;
+  align-items: center;
+  width: 9px;
+  height: 19px;
+  font: 400 16px/1.18 "Barlow", Helvetica, Arial, serif;
+  color: #b2b9c3;
+}
+.catalog .text1 {
+  position: absolute;
+  top: 137px;
+  right: 1609px;
+  bottom: 2486px;
+  left: 257px;
+  display: flex;
+  align-items: center;
+  width: 54px;
+  height: 17px;
+  font: 600 14px/1.21 "Barlow", Helvetica, Arial, serif;
+  color: rgba(14, 14, 15, 0.498);
+}
+.catalog .highlight32 {
+  position: absolute;
+  top: 136px;
+  right: 1583px;
+  bottom: 2485px;
+  left: 328px;
+  display: flex;
+  align-items: center;
+  width: 9px;
+  height: 19px;
+  font: 400 16px/1.18 "Barlow", Helvetica, Arial, serif;
+  color: #b2b9c3;
+}
+.catalog .text2 {
+  position: absolute;
+  top: 137px;
+  right: 1459px;
+  bottom: 2486px;
+  left: 347px;
+  display: flex;
+  align-items: center;
+  width: 114px;
+  height: 17px;
+  font: 600 14px/1.21 "Barlow", Helvetica, Arial, serif;
+  color: rgba(14, 14, 15, 0.498);
+}
+.catalog .rect1 {
+  position: absolute;
+  top: 256px;
+  right: 1618px;
+  bottom: 2352px;
+  left: 161px;
+  width: 141px;
+  height: 32px;
+  background-color: rgba(255, 255, 255, 0.498);
+  border-radius: 15px 15px 15px 15px;
+  box-shadow: 0px 2px 16px 0px rgba(0, 0, 0, 0.078);
+}
+.catalog .image3 {
+  position: absolute;
+  top: 266px;
+  right: 1733px;
+  bottom: 2362px;
+  left: 173px;
+  width: 14px;
+  height: 12px;
+}
+.catalog .text11 {
+  position: absolute;
+  top: 261px;
+  right: 1648px;
+  bottom: 2359px;
+  left: 199px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 73px;
+  height: 20px;
+  font: 400 14px/1.42 "Barlow", Helvetica, Arial, serif;
+  color: black;
+  text-align: center;
+}
+.catalog .image5 {
+  position: absolute;
+  top: 265px;
+  right: 1630px;
+  bottom: 2363px;
+  left: 278px;
+  width: 12px;
+  height: 12px;
+}
+.catalog .rect2 {
+  position: absolute;
+  top: 256px;
+  right: 1425px;
+  bottom: 2352px;
+  left: 314px;
+  width: 181px;
+  height: 32px;
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 15px 15px 15px 15px;
+  box-shadow: 0px 2px 16px 0px rgba(0, 0, 0, 0.078);
+}
+.catalog .image6 {
+  position: absolute;
+  top: 266px;
+  right: 1578px;
+  bottom: 2361px;
+  left: 326px;
+  width: 16px;
+  height: 13px;
+}
+.catalog .text21 {
+  position: absolute;
+  top: 261px;
+  right: 1455px;
+  bottom: 2359px;
+  left: 355px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 110px;
+  height: 20px;
+  font: 400 13.890625px/1.43 "Barlow", Helvetica, Arial, serif;
+  color: black;
+  text-align: center;
+}
+.catalog .image51 {
+  position: absolute;
+  top: 265px;
+  right: 1436px;
+  bottom: 2363px;
+  left: 472px;
+  width: 12px;
+  height: 12px;
+}
+.catalog .rect3 {
+  position: absolute;
+  top: 256px;
+  right: 1276px;
+  bottom: 2352px;
+  left: 507px;
+  width: 137px;
+  height: 32px;
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 15px 15px 15px 15px;
+  box-shadow: 0px 2px 16px 0px rgba(0, 0, 0, 0.078);
+}
+.catalog .text12 {
+  position: absolute;
+  top: 261px;
+  right: 1307px;
+  bottom: 2359px;
+  left: 520px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 93px;
+  height: 20px;
+  font: 400 14px/1.42 "Barlow", Helvetica, Arial, serif;
+  color: black;
+  text-align: center;
+}
+.catalog .image52 {
+  position: absolute;
+  top: 265px;
+  right: 1288px;
+  bottom: 2363px;
+  left: 620px;
+  width: 12px;
+  height: 12px;
+}
+.catalog .rect4 {
+  position: absolute;
+  top: 256px;
+  right: 1176px;
+  bottom: 2352px;
+  left: 656px;
+  width: 88px;
+  height: 32px;
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 15px 15px 15px 15px;
+  box-shadow: 0px 2px 16px 0px rgba(0, 0, 0, 0.078);
+}
+.catalog .text3 {
+  position: absolute;
+  top: 261px;
+  right: 1206px;
+  bottom: 2359px;
+  left: 668px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 46px;
+  height: 20px;
+  font: 400 13.78125px/1.45 "Barlow", Helvetica, Arial, serif;
+  color: black;
+  text-align: center;
+  letter-spacing: -0.5px;
+}
+.catalog .image7 {
+  position: absolute;
+  top: 265px;
+  right: 1187px;
+  bottom: 2363px;
+  left: 720px;
+  width: 13px;
+  height: 12px;
+}
+.catalog .rect5 {
+  position: absolute;
+  top: 256px;
+  right: 1091px;
+  bottom: 2352px;
+  left: 756px;
+  width: 73px;
+  height: 32px;
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 15px 15px 15px 15px;
+  box-shadow: 0px 2px 16px 0px rgba(0, 0, 0, 0.078);
+}
+.catalog .text13 {
+  position: absolute;
+  top: 261px;
+  right: 1120px;
+  bottom: 2359px;
+  left: 768px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 32px;
+  height: 20px;
+  font: 400 14px/1.42 "Barlow", Helvetica, Arial, serif;
+  color: black;
+  text-align: center;
+}
+.catalog .image53 {
+  position: absolute;
+  top: 265px;
+  right: 1102px;
+  bottom: 2363px;
+  left: 806px;
+  width: 12px;
+  height: 12px;
+}
+.catalog .rect6 {
+  position: absolute;
+  top: 256px;
+  right: 996px;
+  bottom: 2352px;
+  left: 841px;
+  width: 83px;
+  height: 32px;
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 15px 15px 15px 15px;
+  box-shadow: 0px 2px 16px 0px rgba(0, 0, 0, 0.078);
+}
+.catalog .text14 {
+  position: absolute;
+  top: 261px;
+  right: 1026px;
+  bottom: 2359px;
+  left: 853px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 41px;
+  height: 20px;
+  font: 400 14px/1.42 "Barlow", Helvetica, Arial, serif;
+  color: black;
+  text-align: center;
+}
+.catalog .image71 {
+  position: absolute;
+  top: 265px;
+  right: 1007px;
+  bottom: 2363px;
+  left: 900px;
+  width: 13px;
+  height: 12px;
+}
+.catalog .rect7 {
+  position: absolute;
+  top: 256px;
+  right: 877px;
+  bottom: 2352px;
+  left: 936px;
+  width: 107px;
+  height: 32px;
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 15px 15px 15px 15px;
+  box-shadow: 0px 2px 16px 0px rgba(0, 0, 0, 0.078);
+}
+.catalog .text15 {
+  position: absolute;
+  top: 261px;
+  right: 907px;
+  bottom: 2359px;
+  left: 948px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 65px;
+  height: 20px;
+  font: 400 14px/1.42 "Barlow", Helvetica, Arial, serif;
+  color: black;
+  text-align: center;
+}
+.catalog .image54 {
+  position: absolute;
+  top: 265px;
+  right: 889px;
+  bottom: 2363px;
+  left: 1019px;
+  width: 12px;
+  height: 12px;
+}
+.catalog .rect8 {
+  position: absolute;
+  top: 256px;
+  right: 775px;
+  bottom: 2352px;
+  left: 1055px;
+  width: 90px;
+  height: 32px;
+  background-color: white;
+  border-radius: 15px 15px 15px 15px;
+  box-shadow: 0px 2px 16px 0px rgba(0, 0, 0, 0.078);
+}
+.catalog .text16 {
+  position: absolute;
+  top: 261px;
+  right: 804.5px;
+  bottom: 2359px;
+  left: 1066.5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 49px;
+  height: 20px;
+  font: 400 14px/1.42 "Barlow", Helvetica, Arial, serif;
+  color: black;
+  text-align: center;
+}
+.catalog .image55 {
+  position: absolute;
+  top: 265px;
+  right: 787px;
+  bottom: 2363px;
+  left: 1121px;
+  width: 12px;
+  height: 12px;
+}
+.catalog .rect9 {
+  position: absolute;
+  top: 256px;
+  right: 625px;
+  bottom: 2352px;
+  left: 1157px;
+  width: 138px;
+  height: 32px;
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 15px 15px 15px 15px;
+  box-shadow: 0px 2px 16px 0px rgba(0, 0, 0, 0.078);
+}
+.catalog .image8 {
+  position: absolute;
+  top: 265px;
+  right: 735px;
+  bottom: 2359px;
+  left: 1169px;
+  width: 16px;
+  height: 16px;
+}
+.catalog .text17 {
+  position: absolute;
+  top: 261px;
+  right: 637.5px;
+  bottom: 2359px;
+  left: 1197.5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 85px;
+  height: 20px;
+  font: 400 14px/1.42 "Barlow", Helvetica, Arial, serif;
+  color: black;
+  text-align: center;
+}
+.catalog .rect10 {
+  position: absolute;
+  top: 321px;
+  right: 1462px;
+  bottom: 1909px;
+  left: 160px;
+  width: 298px;
+  height: 410px;
+  background-color: white;
+  border-radius: 18.8059005737px 18.8059005737px 18.8059005737px 18.8059005737px;
+  box-shadow: 0px 2.3507375717px 7.0522127151px 0px rgba(32, 76, 136, 0.149);
+}
+.catalog .highlight41 {
+  position: absolute;
+  top: 661.5px;
+  right: 1577px;
+  bottom: 1954.5px;
+  left: 179px;
+  display: flex;
+  align-items: center;
+  width: 164px;
+  height: 24px;
+  font: 600 17.630531311px/1.33 "Barlow", Helvetica, Arial, serif;
+  color: #0e0e0f;
+}
+.catalog .cover {
+  position: absolute;
+  top: 321px;
+  right: 1462px;
+  bottom: 2022px;
+  left: 161px;
+  width: 297px;
+  height: 297px;
+  border-radius: 18.8059005737px 18.8059005737px 0px 0px;
+}
+.catalog .rect11 {
+  position: absolute;
+  top: 340px;
+  right: 1696px;
+  bottom: 2274px;
+  left: 178px;
+  width: 46px;
+  height: 26px;
+  background-color: #ffcfcf;
+  border-radius: 4.7014751434px 4.7014751434px 4.7014751434px 4.7014751434px;
+}
+.catalog .text4 {
+  position: absolute;
+  top: 345.5px;
+  right: 1700px;
+  bottom: 2279.5px;
+  left: 187px;
+  display: flex;
+  align-items: center;
+  width: 33px;
+  height: 15px;
+  font: 500 14.1044254303px/1 "Barlow", Helvetica, Arial, serif;
+  color: #e61919;
+}
+.catalog .subtitle {
+  position: absolute;
+  top: 686.5px;
+  right: 1687px;
+  bottom: 1925.5px;
+  left: 179px;
+  display: flex;
+  align-items: center;
+  width: 54px;
+  height: 28px;
+  font: 700 21.1566371918px/1.27 "Barlow", Helvetica, Arial, serif;
+  color: #0e0e0f;
+}
+.catalog .highlight51 {
+  position: absolute;
+  top: 690px;
+  right: 1479px;
+  bottom: 1926px;
+  left: 418px;
+  display: flex;
+  align-items: center;
+  width: 23px;
+  height: 24px;
+  font: 600 16.4551620483px/1.42 "Barlow", Helvetica, Arial, serif;
+  color: #0e0e0f;
+}
+.catalog .image12 {
+  position: absolute;
+  top: 692px;
+  right: 1507px;
+  bottom: 1931px;
+  left: 397px;
+  width: 16px;
+  height: 17px;
+}
+.catalog .text5 {
+  position: absolute;
+  top: 636px;
+  right: 1690px;
+  bottom: 1982px;
+  left: 179px;
+  display: flex;
+  align-items: center;
+  width: 51px;
+  height: 22px;
+  font: 400 14.1044254303px/1.49 "Barlow", Helvetica, Arial, serif;
+  color: #747a84;
+}
+.catalog .rect101 {
+  position: absolute;
+  top: 321px;
+  right: 1137px;
+  bottom: 1909px;
+  left: 485px;
+  width: 298px;
+  height: 410px;
+  background-color: white;
+  border-radius: 18.8059005737px 18.8059005737px 18.8059005737px 18.8059005737px;
+  box-shadow: 0px 2.3507375717px 7.0522127151px 0px rgba(32, 76, 136, 0.149);
+}
+.catalog .image13 {
+  position: absolute;
+  top: 659px;
+  right: 1197px;
+  bottom: 1959px;
+  left: 504px;
+  width: 219px;
+  height: 22px;
+}
+.catalog .cover1 {
+  position: absolute;
+  top: 321px;
+  right: 1137px;
+  bottom: 2022px;
+  left: 486px;
+  width: 297px;
+  height: 297px;
+  border-radius: 18.8059005737px 18.8059005737px 0px 0px;
+}
+.catalog .rect111 {
+  position: absolute;
+  top: 340px;
+  right: 1371px;
+  bottom: 2274px;
+  left: 503px;
+  width: 46px;
+  height: 26px;
+  background-color: #ffcfcf;
+  border-radius: 4.7014751434px 4.7014751434px 4.7014751434px 4.7014751434px;
+}
+.catalog .text41 {
+  position: absolute;
+  top: 345.5px;
+  right: 1375px;
+  bottom: 2279.5px;
+  left: 512px;
+  display: flex;
+  align-items: center;
+  width: 33px;
+  height: 15px;
+  font: 500 14.1044254303px/1 "Barlow", Helvetica, Arial, serif;
+  color: #e61919;
+}
+.catalog .subtitle1 {
+  position: absolute;
+  top: 686.5px;
+  right: 1362px;
+  bottom: 1925.5px;
+  left: 504px;
+  display: flex;
+  align-items: center;
+  width: 54px;
+  height: 28px;
+  font: 700 21.1566371918px/1.27 "Barlow", Helvetica, Arial, serif;
+  color: #0e0e0f;
+}
+.catalog .highlight52 {
+  position: absolute;
+  top: 690px;
+  right: 1154px;
+  bottom: 1926px;
+  left: 743px;
+  display: flex;
+  align-items: center;
+  width: 23px;
+  height: 24px;
+  font: 600 16.4551620483px/1.42 "Barlow", Helvetica, Arial, serif;
+  color: #0e0e0f;
+}
+.catalog .image121 {
+  position: absolute;
+  top: 692px;
+  right: 1182px;
+  bottom: 1931px;
+  left: 722px;
+  width: 16px;
+  height: 17px;
+}
+.catalog .text51 {
+  position: absolute;
+  top: 636px;
+  right: 1367px;
+  bottom: 1982px;
+  left: 504px;
+  display: flex;
+  align-items: center;
+  width: 49px;
+  height: 22px;
+  font: 400 14.1044254303px/1.49 "Barlow", Helvetica, Arial, serif;
+  color: #747a84;
+}
+.catalog .rect102 {
+  position: absolute;
+  top: 321px;
+  right: 812px;
+  bottom: 1909px;
+  left: 810px;
+  width: 298px;
+  height: 410px;
+  background-color: white;
+  border-radius: 18.8059005737px 18.8059005737px 18.8059005737px 18.8059005737px;
+  box-shadow: 0px 2.3507375717px 7.0522127151px 0px rgba(32, 76, 136, 0.149);
+}
+.catalog .image14 {
+  position: absolute;
+  top: 656px;
+  right: 872px;
+  bottom: 1959px;
+  left: 829px;
+  width: 219px;
+  height: 25px;
+}
+.catalog .cover2 {
+  position: absolute;
+  top: 321px;
+  right: 812px;
+  bottom: 2022px;
+  left: 811px;
+  width: 297px;
+  height: 297px;
+  border-radius: 18.8059005737px 18.8059005737px 0px 0px;
+}
+.catalog .rect112 {
+  position: absolute;
+  top: 340px;
+  right: 1046px;
+  bottom: 2274px;
+  left: 828px;
+  width: 46px;
+  height: 26px;
+  background-color: #ffcfcf;
+  border-radius: 4.7014751434px 4.7014751434px 4.7014751434px 4.7014751434px;
+}
+.catalog .text42 {
+  position: absolute;
+  top: 345.5px;
+  right: 1050px;
+  bottom: 2279.5px;
+  left: 837px;
+  display: flex;
+  align-items: center;
+  width: 33px;
+  height: 15px;
+  font: 500 14.1044254303px/1 "Barlow", Helvetica, Arial, serif;
+  color: #e61919;
+}
+.catalog .subtitle2 {
+  position: absolute;
+  top: 686.5px;
+  right: 1033px;
+  bottom: 1925.5px;
+  left: 829px;
+  display: flex;
+  align-items: center;
+  width: 58px;
+  height: 28px;
+  font: 700 21.1566371918px/1.27 "Barlow", Helvetica, Arial, serif;
+  color: #0e0e0f;
+}
+.catalog .highlight53 {
+  position: absolute;
+  top: 690px;
+  right: 829px;
+  bottom: 1926px;
+  left: 1068px;
+  display: flex;
+  align-items: center;
+  width: 23px;
+  height: 24px;
+  font: 600 16.4551620483px/1.42 "Barlow", Helvetica, Arial, serif;
+  color: #0e0e0f;
+}
+.catalog .image122 {
+  position: absolute;
+  top: 692px;
+  right: 857px;
+  bottom: 1931px;
+  left: 1047px;
+  width: 16px;
+  height: 17px;
+}
+.catalog .text52 {
+  position: absolute;
+  top: 636px;
+  right: 1045px;
+  bottom: 1985px;
+  left: 829px;
+  display: flex;
+  align-items: center;
+  width: 46px;
+  height: 19px;
+  font: 400 14.1044254303px/1.49 "Barlow", Helvetica, Arial, serif;
+  color: #747a84;
+}
+.catalog .rect103 {
+  position: absolute;
+  top: 321px;
+  right: 487px;
+  bottom: 1909px;
+  left: 1135px;
+  width: 298px;
+  height: 410px;
+  background-color: white;
+  border-radius: 18.8059005737px 18.8059005737px 18.8059005737px 18.8059005737px;
+  box-shadow: 0px 2.3507375717px 7.0522127151px 0px rgba(32, 76, 136, 0.149);
+}
+.catalog .highlight42 {
+  position: absolute;
+  top: 656.5px;
+  right: 603px;
+  bottom: 1961.5px;
+  left: 1154px;
+  display: flex;
+  align-items: center;
+  width: 163px;
+  height: 22px;
+  font: 600 17.630531311px/1.33 "Barlow", Helvetica, Arial, serif;
+  color: #0e0e0f;
+}
+.catalog .cover3 {
+  position: absolute;
+  top: 321px;
+  right: 487px;
+  bottom: 2022px;
+  left: 1136px;
+  width: 297px;
+  height: 297px;
+  border-radius: 18.8059005737px 18.8059005737px 0px 0px;
+}
+.catalog .rect113 {
+  position: absolute;
+  top: 340px;
+  right: 721px;
+  bottom: 2274px;
+  left: 1153px;
+  width: 46px;
+  height: 26px;
+  background-color: #ffcfcf;
+  border-radius: 4.7014751434px 4.7014751434px 4.7014751434px 4.7014751434px;
+}
+.catalog .text43 {
+  position: absolute;
+  top: 345.5px;
+  right: 725px;
+  bottom: 2279.5px;
+  left: 1162px;
+  display: flex;
+  align-items: center;
+  width: 33px;
+  height: 15px;
+  font: 500 14.1044254303px/1 "Barlow", Helvetica, Arial, serif;
+  color: #e61919;
+}
+.catalog .subtitle3 {
+  position: absolute;
+  top: 686.5px;
+  right: 712px;
+  bottom: 1925.5px;
+  left: 1154px;
+  display: flex;
+  align-items: center;
+  width: 54px;
+  height: 28px;
+  font: 700 21.1566371918px/1.27 "Barlow", Helvetica, Arial, serif;
+  color: #0e0e0f;
+}
+.catalog .highlight54 {
+  position: absolute;
+  top: 690px;
+  right: 504px;
+  bottom: 1926px;
+  left: 1393px;
+  display: flex;
+  align-items: center;
+  width: 23px;
+  height: 24px;
+  font: 600 16.4551620483px/1.42 "Barlow", Helvetica, Arial, serif;
+  color: #0e0e0f;
+}
+.catalog .image123 {
+  position: absolute;
+  top: 692px;
+  right: 532px;
+  bottom: 1931px;
+  left: 1372px;
+  width: 16px;
+  height: 17px;
+}
+.catalog .text53 {
+  position: absolute;
+  top: 636px;
+  right: 715px;
+  bottom: 1984px;
+  left: 1154px;
+  display: flex;
+  align-items: center;
+  width: 51px;
+  height: 20px;
+  font: 400 14.1044254303px/1.49 "Barlow", Helvetica, Arial, serif;
+  color: #747a84;
+}
+.catalog .rect104 {
+  position: absolute;
+  top: 321px;
+  right: 162px;
+  bottom: 1909px;
+  left: 1460px;
+  width: 298px;
+  height: 410px;
+  background-color: white;
+  border-radius: 18.8059005737px 18.8059005737px 18.8059005737px 18.8059005737px;
+  box-shadow: 0px 2.3507375717px 7.0522127151px 0px rgba(32, 76, 136, 0.149);
+}
+.catalog .highlight43 {
+  position: absolute;
+  top: 656.5px;
+  right: 292px;
+  bottom: 1961.5px;
+  left: 1479px;
+  display: flex;
+  align-items: center;
+  width: 149px;
+  height: 22px;
+  font: 600 17.630531311px/1.33 "Barlow", Helvetica, Arial, serif;
+  color: #0e0e0f;
+}
+.catalog .cover4 {
+  position: absolute;
+  top: 321px;
+  right: 162px;
+  bottom: 2022px;
+  left: 1461px;
+  width: 297px;
+  height: 297px;
+  border-radius: 18.8059005737px 18.8059005737px 0px 0px;
+}
+.catalog .rect114 {
+  position: absolute;
+  top: 340px;
+  right: 396px;
+  bottom: 2274px;
+  left: 1478px;
+  width: 46px;
+  height: 26px;
+  background-color: #ffcfcf;
+  border-radius: 4.7014751434px 4.7014751434px 4.7014751434px 4.7014751434px;
+}
+.catalog .text44 {
+  position: absolute;
+  top: 345.5px;
+  right: 400px;
+  bottom: 2279.5px;
+  left: 1487px;
+  display: flex;
+  align-items: center;
+  width: 33px;
+  height: 15px;
+  font: 500 14.1044254303px/1 "Barlow", Helvetica, Arial, serif;
+  color: #e61919;
+}
+.catalog .subtitle4 {
+  position: absolute;
+  top: 686.5px;
+  right: 387px;
+  bottom: 1925.5px;
+  left: 1479px;
+  display: flex;
+  align-items: center;
+  width: 54px;
+  height: 28px;
+  font: 700 21.1566371918px/1.27 "Barlow", Helvetica, Arial, serif;
+  color: #0e0e0f;
+}
+.catalog .highlight55 {
+  position: absolute;
+  top: 690px;
+  right: 179px;
+  bottom: 1926px;
+  left: 1718px;
+  display: flex;
+  align-items: center;
+  width: 23px;
+  height: 24px;
+  font: 600 16.4551620483px/1.42 "Barlow", Helvetica, Arial, serif;
+  color: #0e0e0f;
+}
+.catalog .image124 {
+  position: absolute;
+  top: 692px;
+  right: 207px;
+  bottom: 1931px;
+  left: 1697px;
+  width: 16px;
+  height: 17px;
+}
+.catalog .text54 {
+  position: absolute;
+  top: 636px;
+  right: 390px;
+  bottom: 1984px;
+  left: 1479px;
+  display: flex;
+  align-items: center;
+  width: 51px;
+  height: 20px;
+  font: 400 14.1044254303px/1.49 "Barlow", Helvetica, Arial, serif;
+  color: #747a84;
+}
+.catalog .rect105 {
+  position: absolute;
+  top: 1221px;
+  right: 1462px;
+  bottom: 1009px;
+  left: 160px;
+  width: 298px;
+  height: 410px;
+  background-color: white;
+  border-radius: 18.8059005737px 18.8059005737px 18.8059005737px 18.8059005737px;
+  box-shadow: 0px 2.3507375717px 7.0522127151px 0px rgba(32, 76, 136, 0.149);
+}
+.catalog .image15 {
+  position: absolute;
+  top: 1566px;
+  right: 1522px;
+  bottom: 1059px;
+  left: 179px;
+  width: 219px;
+  height: 15px;
+}
+.catalog .cover5 {
+  position: absolute;
+  top: 1221px;
+  right: 1462px;
+  bottom: 1122px;
+  left: 161px;
+  width: 297px;
+  height: 297px;
+  border-radius: 18.8059005737px 18.8059005737px 0px 0px;
+}
+.catalog .rect115 {
+  position: absolute;
+  top: 1240px;
+  right: 1696px;
+  bottom: 1374px;
+  left: 178px;
+  width: 46px;
+  height: 26px;
+  background-color: #ffcfcf;
+  border-radius: 4.7014751434px 4.7014751434px 4.7014751434px 4.7014751434px;
+}
+.catalog .text45 {
+  position: absolute;
+  top: 1245.5px;
+  right: 1697px;
+  bottom: 1379.5px;
+  left: 187px;
+  display: flex;
+  align-items: center;
+  width: 36px;
+  height: 15px;
+  font: 500 14.1044254303px/1 "Barlow", Helvetica, Arial, serif;
+  color: #e61919;
+}
+.catalog .subtitle5 {
+  position: absolute;
+  top: 1586.5px;
+  right: 1671px;
+  bottom: 1025.5px;
+  left: 179px;
+  display: flex;
+  align-items: center;
+  width: 70px;
+  height: 28px;
+  font: 700 21.1566371918px/1.27 "Barlow", Helvetica, Arial, serif;
+  color: #0e0e0f;
+}
+.catalog .highlight56 {
+  position: absolute;
+  top: 1590px;
+  right: 1479px;
+  bottom: 1026px;
+  left: 418px;
+  display: flex;
+  align-items: center;
+  width: 23px;
+  height: 24px;
+  font: 600 16.4551620483px/1.42 "Barlow", Helvetica, Arial, serif;
+  color: #0e0e0f;
+}
+.catalog .image125 {
+  position: absolute;
+  top: 1592px;
+  right: 1507px;
+  bottom: 1031px;
+  left: 397px;
+  width: 16px;
+  height: 17px;
+}
+.catalog .text55 {
+  position: absolute;
+  top: 1536px;
+  right: 1690px;
+  bottom: 1082px;
+  left: 179px;
+  display: flex;
+  align-items: center;
+  width: 51px;
+  height: 22px;
+  font: 400 14.1044254303px/1.49 "Barlow", Helvetica, Arial, serif;
+  color: #747a84;
+}
+.catalog .rect106 {
+  position: absolute;
+  top: 1221px;
+  right: 1137px;
+  bottom: 1009px;
+  left: 485px;
+  width: 298px;
+  height: 410px;
+  background-color: white;
+  border-radius: 18.8059005737px 18.8059005737px 18.8059005737px 18.8059005737px;
+  box-shadow: 0px 2.3507375717px 7.0522127151px 0px rgba(32, 76, 136, 0.149);
+}
+.catalog .image131 {
+  position: absolute;
+  top: 1559px;
+  right: 1197px;
+  bottom: 1059px;
+  left: 504px;
+  width: 219px;
+  height: 22px;
+}
+.catalog .cover6 {
+  position: absolute;
+  top: 1221px;
+  right: 1137px;
+  bottom: 1122px;
+  left: 486px;
+  width: 297px;
+  height: 297px;
+  border-radius: 18.8059005737px 18.8059005737px 0px 0px;
+}
+.catalog .rect116 {
+  position: absolute;
+  top: 1240px;
+  right: 1371px;
+  bottom: 1374px;
+  left: 503px;
+  width: 46px;
+  height: 26px;
+  background-color: #ffcfcf;
+  border-radius: 4.7014751434px 4.7014751434px 4.7014751434px 4.7014751434px;
+}
+.catalog .text46 {
+  position: absolute;
+  top: 1245.5px;
+  right: 1375px;
+  bottom: 1379.5px;
+  left: 512px;
+  display: flex;
+  align-items: center;
+  width: 33px;
+  height: 15px;
+  font: 500 14.1044254303px/1 "Barlow", Helvetica, Arial, serif;
+  color: #e61919;
+}
+.catalog .subtitle6 {
+  position: absolute;
+  top: 1586.5px;
+  right: 1358px;
+  bottom: 1025.5px;
+  left: 504px;
+  display: flex;
+  align-items: center;
+  width: 58px;
+  height: 28px;
+  font: 700 21.1566371918px/1.27 "Barlow", Helvetica, Arial, serif;
+  color: #0e0e0f;
+}
+.catalog .highlight57 {
+  position: absolute;
+  top: 1590px;
+  right: 1154px;
+  bottom: 1026px;
+  left: 743px;
+  display: flex;
+  align-items: center;
+  width: 23px;
+  height: 24px;
+  font: 600 16.4551620483px/1.42 "Barlow", Helvetica, Arial, serif;
+  color: #0e0e0f;
+}
+.catalog .image126 {
+  position: absolute;
+  top: 1592px;
+  right: 1182px;
+  bottom: 1031px;
+  left: 722px;
+  width: 16px;
+  height: 17px;
+}
+.catalog .text56 {
+  position: absolute;
+  top: 1536px;
+  right: 1367px;
+  bottom: 1082px;
+  left: 504px;
+  display: flex;
+  align-items: center;
+  width: 49px;
+  height: 22px;
+  font: 400 14.1044254303px/1.49 "Barlow", Helvetica, Arial, serif;
+  color: #747a84;
+}
+.catalog .rect107 {
+  position: absolute;
+  top: 1221px;
+  right: 812px;
+  bottom: 1009px;
+  left: 810px;
+  width: 298px;
+  height: 410px;
+  background-color: white;
+  border-radius: 18.8059005737px 18.8059005737px 18.8059005737px 18.8059005737px;
+  box-shadow: 0px 2.3507375717px 7.0522127151px 0px rgba(32, 76, 136, 0.149);
+}
+.catalog .image141 {
+  position: absolute;
+  top: 1556px;
+  right: 872px;
+  bottom: 1059px;
+  left: 829px;
+  width: 219px;
+  height: 25px;
+}
+.catalog .cover7 {
+  position: absolute;
+  top: 1221px;
+  right: 812px;
+  bottom: 1122px;
+  left: 811px;
+  width: 297px;
+  height: 297px;
+  border-radius: 18.8059005737px 18.8059005737px 0px 0px;
+}
+.catalog .rect117 {
+  position: absolute;
+  top: 1240px;
+  right: 1046px;
+  bottom: 1374px;
+  left: 828px;
+  width: 46px;
+  height: 26px;
+  background-color: #ffcfcf;
+  border-radius: 4.7014751434px 4.7014751434px 4.7014751434px 4.7014751434px;
+}
+.catalog .text47 {
+  position: absolute;
+  top: 1245.5px;
+  right: 1047px;
+  bottom: 1379.5px;
+  left: 837px;
+  display: flex;
+  align-items: center;
+  width: 36px;
+  height: 15px;
+  font: 500 14.1044254303px/1 "Barlow", Helvetica, Arial, serif;
+  color: #e61919;
+}
+.catalog .subtitle7 {
+  position: absolute;
+  top: 1586.5px;
+  right: 1017px;
+  bottom: 1025.5px;
+  left: 829px;
+  display: flex;
+  align-items: center;
+  width: 74px;
+  height: 28px;
+  font: 700 21.1566371918px/1.27 "Barlow", Helvetica, Arial, serif;
+  color: #0e0e0f;
+}
+.catalog .highlight58 {
+  position: absolute;
+  top: 1590px;
+  right: 829px;
+  bottom: 1026px;
+  left: 1068px;
+  display: flex;
+  align-items: center;
+  width: 23px;
+  height: 24px;
+  font: 600 16.4551620483px/1.42 "Barlow", Helvetica, Arial, serif;
+  color: #0e0e0f;
+}
+.catalog .image127 {
+  position: absolute;
+  top: 1592px;
+  right: 857px;
+  bottom: 1031px;
+  left: 1047px;
+  width: 16px;
+  height: 17px;
+}
+.catalog .text57 {
+  position: absolute;
+  top: 1536px;
+  right: 1045px;
+  bottom: 1085px;
+  left: 829px;
+  display: flex;
+  align-items: center;
+  width: 46px;
+  height: 19px;
+  font: 400 14.1044254303px/1.49 "Barlow", Helvetica, Arial, serif;
+  color: #747a84;
+}
+.catalog .rect108 {
+  position: absolute;
+  top: 1221px;
+  right: 487px;
+  bottom: 1009px;
+  left: 1135px;
+  width: 298px;
+  height: 410px;
+  background-color: white;
+  border-radius: 18.8059005737px 18.8059005737px 18.8059005737px 18.8059005737px;
+  box-shadow: 0px 2.3507375717px 7.0522127151px 0px rgba(32, 76, 136, 0.149);
+}
+.catalog .highlight44 {
+  position: absolute;
+  top: 1556.5px;
+  right: 597px;
+  bottom: 1061.5px;
+  left: 1154px;
+  display: flex;
+  align-items: center;
+  width: 169px;
+  height: 22px;
+  font: 600 17.630531311px/1.33 "Barlow", Helvetica, Arial, serif;
+  color: #0e0e0f;
+}
+.catalog .cover8 {
+  position: absolute;
+  top: 1221px;
+  right: 487px;
+  bottom: 1122px;
+  left: 1136px;
+  width: 297px;
+  height: 297px;
+  border-radius: 18.8059005737px 18.8059005737px 0px 0px;
+}
+.catalog .rect118 {
+  position: absolute;
+  top: 1240px;
+  right: 721px;
+  bottom: 1374px;
+  left: 1153px;
+  width: 46px;
+  height: 26px;
+  background-color: #ffcfcf;
+  border-radius: 4.7014751434px 4.7014751434px 4.7014751434px 4.7014751434px;
+}
+.catalog .text48 {
+  position: absolute;
+  top: 1245.5px;
+  right: 725px;
+  bottom: 1379.5px;
+  left: 1162px;
+  display: flex;
+  align-items: center;
+  width: 33px;
+  height: 15px;
+  font: 500 14.1044254303px/1 "Barlow", Helvetica, Arial, serif;
+  color: #e61919;
+}
+.catalog .subtitle8 {
+  position: absolute;
+  top: 1586.5px;
+  right: 712px;
+  bottom: 1025.5px;
+  left: 1154px;
+  display: flex;
+  align-items: center;
+  width: 54px;
+  height: 28px;
+  font: 700 21.1566371918px/1.27 "Barlow", Helvetica, Arial, serif;
+  color: #0e0e0f;
+}
+.catalog .highlight59 {
+  position: absolute;
+  top: 1590px;
+  right: 504px;
+  bottom: 1026px;
+  left: 1393px;
+  display: flex;
+  align-items: center;
+  width: 23px;
+  height: 24px;
+  font: 600 16.4551620483px/1.42 "Barlow", Helvetica, Arial, serif;
+  color: #0e0e0f;
+}
+.catalog .image128 {
+  position: absolute;
+  top: 1592px;
+  right: 532px;
+  bottom: 1031px;
+  left: 1372px;
+  width: 16px;
+  height: 17px;
+}
+.catalog .text58 {
+  position: absolute;
+  top: 1536px;
+  right: 717px;
+  bottom: 1084px;
+  left: 1154px;
+  display: flex;
+  align-items: center;
+  width: 49px;
+  height: 20px;
+  font: 400 14.1044254303px/1.49 "Barlow", Helvetica, Arial, serif;
+  color: #747a84;
+}
+.catalog .rect109 {
+  position: absolute;
+  top: 1221px;
+  right: 162px;
+  bottom: 1009px;
+  left: 1460px;
+  width: 298px;
+  height: 410px;
+  background-color: white;
+  border-radius: 18.8059005737px 18.8059005737px 18.8059005737px 18.8059005737px;
+  box-shadow: 0px 2.3507375717px 7.0522127151px 0px rgba(32, 76, 136, 0.149);
+}
+.catalog .highlight45 {
+  position: absolute;
+  top: 1556.5px;
+  right: 292px;
+  bottom: 1061.5px;
+  left: 1479px;
+  display: flex;
+  align-items: center;
+  width: 149px;
+  height: 22px;
+  font: 600 17.630531311px/1.33 "Barlow", Helvetica, Arial, serif;
+  color: #0e0e0f;
+}
+.catalog .cover9 {
+  position: absolute;
+  top: 1221px;
+  right: 162px;
+  bottom: 1122px;
+  left: 1461px;
+  width: 297px;
+  height: 297px;
+  border-radius: 18.8059005737px 18.8059005737px 0px 0px;
+}
+.catalog .rect119 {
+  position: absolute;
+  top: 1240px;
+  right: 396px;
+  bottom: 1374px;
+  left: 1478px;
+  width: 46px;
+  height: 26px;
+  background-color: #ffcfcf;
+  border-radius: 4.7014751434px 4.7014751434px 4.7014751434px 4.7014751434px;
+}
+.catalog .text49 {
+  position: absolute;
+  top: 1245.5px;
+  right: 400px;
+  bottom: 1379.5px;
+  left: 1487px;
+  display: flex;
+  align-items: center;
+  width: 33px;
+  height: 15px;
+  font: 500 14.1044254303px/1 "Barlow", Helvetica, Arial, serif;
+  color: #e61919;
+}
+.catalog .subtitle9 {
+  position: absolute;
+  top: 1586.5px;
+  right: 387px;
+  bottom: 1025.5px;
+  left: 1479px;
+  display: flex;
+  align-items: center;
+  width: 54px;
+  height: 28px;
+  font: 700 21.1566371918px/1.27 "Barlow", Helvetica, Arial, serif;
+  color: #0e0e0f;
+}
+.catalog .highlight510 {
+  position: absolute;
+  top: 1590px;
+  right: 179px;
+  bottom: 1026px;
+  left: 1718px;
+  display: flex;
+  align-items: center;
+  width: 23px;
+  height: 24px;
+  font: 600 16.4551620483px/1.42 "Barlow", Helvetica, Arial, serif;
+  color: #0e0e0f;
+}
+.catalog .image129 {
+  position: absolute;
+  top: 1592px;
+  right: 207px;
+  bottom: 1031px;
+  left: 1697px;
+  width: 16px;
+  height: 17px;
+}
+.catalog .text59 {
+  position: absolute;
+  top: 1536px;
+  right: 390px;
+  bottom: 1084px;
+  left: 1479px;
+  display: flex;
+  align-items: center;
+  width: 51px;
+  height: 20px;
+  font: 400 14.1044254303px/1.49 "Barlow", Helvetica, Arial, serif;
+  color: #747a84;
+}
+.catalog .rect1010 {
+  position: absolute;
+  top: 1671px;
+  right: 1462px;
+  bottom: 559px;
+  left: 160px;
+  width: 298px;
+  height: 410px;
+  background-color: white;
+  border-radius: 18.8059005737px 18.8059005737px 18.8059005737px 18.8059005737px;
+  box-shadow: 0px 2.3507375717px 7.0522127151px 0px rgba(32, 76, 136, 0.149);
+}
+.catalog .highlight46 {
+  position: absolute;
+  top: 2011.5px;
+  right: 1560px;
+  bottom: 604.5px;
+  left: 179px;
+  display: flex;
+  align-items: center;
+  width: 181px;
+  height: 24px;
+  font: 600 17.630531311px/1.33 "Barlow", Helvetica, Arial, serif;
+  color: #0e0e0f;
+}
+.catalog .cover10 {
+  position: absolute;
+  top: 1671px;
+  right: 1462px;
+  bottom: 672px;
+  left: 161px;
+  width: 297px;
+  height: 297px;
+  border-radius: 18.8059005737px 18.8059005737px 0px 0px;
+}
+.catalog .rect1110 {
+  position: absolute;
+  top: 1690px;
+  right: 1696px;
+  bottom: 924px;
+  left: 178px;
+  width: 46px;
+  height: 26px;
+  background-color: #ffcfcf;
+  border-radius: 4.7014751434px 4.7014751434px 4.7014751434px 4.7014751434px;
+}
+.catalog .text410 {
+  position: absolute;
+  top: 1695.5px;
+  right: 1697px;
+  bottom: 929.5px;
+  left: 187px;
+  display: flex;
+  align-items: center;
+  width: 36px;
+  height: 15px;
+  font: 500 14.1044254303px/1 "Barlow", Helvetica, Arial, serif;
+  color: #e61919;
+}
+.catalog .subtitle10 {
+  position: absolute;
+  top: 2036.5px;
+  right: 1671px;
+  bottom: 575.5px;
+  left: 179px;
+  display: flex;
+  align-items: center;
+  width: 70px;
+  height: 28px;
+  font: 700 21.1566371918px/1.27 "Barlow", Helvetica, Arial, serif;
+  color: #0e0e0f;
+}
+.catalog .highlight511 {
+  position: absolute;
+  top: 2040px;
+  right: 1476px;
+  bottom: 576px;
+  left: 418px;
+  display: flex;
+  align-items: center;
+  width: 26px;
+  height: 24px;
+  font: 600 16.4551620483px/1.42 "Barlow", Helvetica, Arial, serif;
+  color: #0e0e0f;
+}
+.catalog .image1210 {
+  position: absolute;
+  top: 2042px;
+  right: 1507px;
+  bottom: 581px;
+  left: 397px;
+  width: 16px;
+  height: 17px;
+}
+.catalog .text510 {
+  position: absolute;
+  top: 1986px;
+  right: 1690px;
+  bottom: 632px;
+  left: 179px;
+  display: flex;
+  align-items: center;
+  width: 51px;
+  height: 22px;
+  font: 400 14.1044254303px/1.49 "Barlow", Helvetica, Arial, serif;
+  color: #747a84;
+}
+.catalog .rect1011 {
+  position: absolute;
+  top: 1671px;
+  right: 1137px;
+  bottom: 559px;
+  left: 485px;
+  width: 298px;
+  height: 410px;
+  background-color: white;
+  border-radius: 18.8059005737px 18.8059005737px 18.8059005737px 18.8059005737px;
+  box-shadow: 0px 2.3507375717px 7.0522127151px 0px rgba(32, 76, 136, 0.149);
+}
+.catalog .image132 {
+  position: absolute;
+  top: 2009px;
+  right: 1197px;
+  bottom: 609px;
+  left: 504px;
+  width: 219px;
+  height: 22px;
+}
+.catalog .cover11 {
+  position: absolute;
+  top: 1671px;
+  right: 1137px;
+  bottom: 672px;
+  left: 486px;
+  width: 297px;
+  height: 297px;
+  border-radius: 18.8059005737px 18.8059005737px 0px 0px;
+}
+.catalog .rect1111 {
+  position: absolute;
+  top: 1690px;
+  right: 1371px;
+  bottom: 924px;
+  left: 503px;
+  width: 46px;
+  height: 26px;
+  background-color: #ffcfcf;
+  border-radius: 4.7014751434px 4.7014751434px 4.7014751434px 4.7014751434px;
+}
+.catalog .text411 {
+  position: absolute;
+  top: 1695.5px;
+  right: 1375px;
+  bottom: 929.5px;
+  left: 512px;
+  display: flex;
+  align-items: center;
+  width: 33px;
+  height: 15px;
+  font: 500 14.1044254303px/1 "Barlow", Helvetica, Arial, serif;
+  color: #e61919;
+}
+.catalog .subtitle11 {
+  position: absolute;
+  top: 2036.5px;
+  right: 1362px;
+  bottom: 575.5px;
+  left: 504px;
+  display: flex;
+  align-items: center;
+  width: 54px;
+  height: 28px;
+  font: 700 21.1566371918px/1.27 "Barlow", Helvetica, Arial, serif;
+  color: #0e0e0f;
+}
+.catalog .highlight512 {
+  position: absolute;
+  top: 2040px;
+  right: 1154px;
+  bottom: 576px;
+  left: 743px;
+  display: flex;
+  align-items: center;
+  width: 23px;
+  height: 24px;
+  font: 600 16.4551620483px/1.42 "Barlow", Helvetica, Arial, serif;
+  color: #0e0e0f;
+}
+.catalog .image1211 {
+  position: absolute;
+  top: 2042px;
+  right: 1182px;
+  bottom: 581px;
+  left: 722px;
+  width: 16px;
+  height: 17px;
+}
+.catalog .text511 {
+  position: absolute;
+  top: 1986px;
+  right: 1370px;
+  bottom: 632px;
+  left: 504px;
+  display: flex;
+  align-items: center;
+  width: 46px;
+  height: 22px;
+  font: 400 14.1044254303px/1.49 "Barlow", Helvetica, Arial, serif;
+  color: #747a84;
+}
+.catalog .rect1012 {
+  position: absolute;
+  top: 1671px;
+  right: 812px;
+  bottom: 559px;
+  left: 810px;
+  width: 298px;
+  height: 410px;
+  background-color: white;
+  border-radius: 18.8059005737px 18.8059005737px 18.8059005737px 18.8059005737px;
+  box-shadow: 0px 2.3507375717px 7.0522127151px 0px rgba(32, 76, 136, 0.149);
+}
+.catalog .image142 {
+  position: absolute;
+  top: 2006px;
+  right: 872px;
+  bottom: 609px;
+  left: 829px;
+  width: 219px;
+  height: 25px;
+}
+.catalog .cover12 {
+  position: absolute;
+  top: 1671px;
+  right: 812px;
+  bottom: 672px;
+  left: 811px;
+  width: 297px;
+  height: 297px;
+  border-radius: 18.8059005737px 18.8059005737px 0px 0px;
+}
+.catalog .rect1112 {
+  position: absolute;
+  top: 1690px;
+  right: 1046px;
+  bottom: 924px;
+  left: 828px;
+  width: 46px;
+  height: 26px;
+  background-color: #ffcfcf;
+  border-radius: 4.7014751434px 4.7014751434px 4.7014751434px 4.7014751434px;
+}
+.catalog .text412 {
+  position: absolute;
+  top: 1695.5px;
+  right: 1047px;
+  bottom: 929.5px;
+  left: 837px;
+  display: flex;
+  align-items: center;
+  width: 36px;
+  height: 15px;
+  font: 500 14.1044254303px/1 "Barlow", Helvetica, Arial, serif;
+  color: #e61919;
+}
+.catalog .subtitle12 {
+  position: absolute;
+  top: 2036.5px;
+  right: 1033px;
+  bottom: 575.5px;
+  left: 829px;
+  display: flex;
+  align-items: center;
+  width: 58px;
+  height: 28px;
+  font: 700 21.1566371918px/1.27 "Barlow", Helvetica, Arial, serif;
+  color: #0e0e0f;
+}
+.catalog .highlight513 {
+  position: absolute;
+  top: 2040px;
+  right: 829px;
+  bottom: 576px;
+  left: 1068px;
+  display: flex;
+  align-items: center;
+  width: 23px;
+  height: 24px;
+  font: 600 16.4551620483px/1.42 "Barlow", Helvetica, Arial, serif;
+  color: #0e0e0f;
+}
+.catalog .image1212 {
+  position: absolute;
+  top: 2042px;
+  right: 857px;
+  bottom: 581px;
+  left: 1047px;
+  width: 16px;
+  height: 17px;
+}
+.catalog .text512 {
+  position: absolute;
+  top: 1986px;
+  right: 1045px;
+  bottom: 635px;
+  left: 829px;
+  display: flex;
+  align-items: center;
+  width: 46px;
+  height: 19px;
+  font: 400 14.1044254303px/1.49 "Barlow", Helvetica, Arial, serif;
+  color: #747a84;
+}
+.catalog .rect1013 {
+  position: absolute;
+  top: 1671px;
+  right: 487px;
+  bottom: 559px;
+  left: 1135px;
+  width: 298px;
+  height: 410px;
+  background-color: white;
+  border-radius: 18.8059005737px 18.8059005737px 18.8059005737px 18.8059005737px;
+  box-shadow: 0px 2.3507375717px 7.0522127151px 0px rgba(32, 76, 136, 0.149);
+}
+.catalog .highlight47 {
+  position: absolute;
+  top: 2006.5px;
+  right: 619px;
+  bottom: 611.5px;
+  left: 1154px;
+  display: flex;
+  align-items: center;
+  width: 147px;
+  height: 22px;
+  font: 600 17.630531311px/1.33 "Barlow", Helvetica, Arial, serif;
+  color: #0e0e0f;
+}
+.catalog .cover13 {
+  position: absolute;
+  top: 1671px;
+  right: 487px;
+  bottom: 672px;
+  left: 1136px;
+  width: 297px;
+  height: 297px;
+  border-radius: 18.8059005737px 18.8059005737px 0px 0px;
+}
+.catalog .rect1113 {
+  position: absolute;
+  top: 1690px;
+  right: 721px;
+  bottom: 924px;
+  left: 1153px;
+  width: 46px;
+  height: 26px;
+  background-color: #ffcfcf;
+  border-radius: 4.7014751434px 4.7014751434px 4.7014751434px 4.7014751434px;
+}
+.catalog .text413 {
+  position: absolute;
+  top: 1695.5px;
+  right: 725px;
+  bottom: 929.5px;
+  left: 1162px;
+  display: flex;
+  align-items: center;
+  width: 33px;
+  height: 15px;
+  font: 500 14.1044254303px/1 "Barlow", Helvetica, Arial, serif;
+  color: #e61919;
+}
+.catalog .subtitle13 {
+  position: absolute;
+  top: 2036.5px;
+  right: 708px;
+  bottom: 575.5px;
+  left: 1154px;
+  display: flex;
+  align-items: center;
+  width: 58px;
+  height: 28px;
+  font: 700 21.1566371918px/1.27 "Barlow", Helvetica, Arial, serif;
+  color: #0e0e0f;
+}
+.catalog .highlight514 {
+  position: absolute;
+  top: 2040px;
+  right: 504px;
+  bottom: 576px;
+  left: 1393px;
+  display: flex;
+  align-items: center;
+  width: 23px;
+  height: 24px;
+  font: 600 16.4551620483px/1.42 "Barlow", Helvetica, Arial, serif;
+  color: #0e0e0f;
+}
+.catalog .image1213 {
+  position: absolute;
+  top: 2042px;
+  right: 532px;
+  bottom: 581px;
+  left: 1372px;
+  width: 16px;
+  height: 17px;
+}
+.catalog .text513 {
+  position: absolute;
+  top: 1986px;
+  right: 715px;
+  bottom: 634px;
+  left: 1154px;
+  display: flex;
+  align-items: center;
+  width: 51px;
+  height: 20px;
+  font: 400 14.1044254303px/1.49 "Barlow", Helvetica, Arial, serif;
+  color: #747a84;
+}
+.catalog .rect1014 {
+  position: absolute;
+  top: 1671px;
+  right: 162px;
+  bottom: 559px;
+  left: 1460px;
+  width: 298px;
+  height: 410px;
+  background-color: white;
+  border-radius: 18.8059005737px 18.8059005737px 18.8059005737px 18.8059005737px;
+  box-shadow: 0px 2.3507375717px 7.0522127151px 0px rgba(32, 76, 136, 0.149);
+}
+.catalog .highlight48 {
+  position: absolute;
+  top: 2006.5px;
+  right: 353px;
+  bottom: 611.5px;
+  left: 1479px;
+  display: flex;
+  align-items: center;
+  width: 88px;
+  height: 22px;
+  font: 600 17.630531311px/1.33 "Barlow", Helvetica, Arial, serif;
+  color: #0e0e0f;
+}
+.catalog .cover14 {
+  position: absolute;
+  top: 1671px;
+  right: 162px;
+  bottom: 672px;
+  left: 1461px;
+  width: 297px;
+  height: 297px;
+  border-radius: 18.8059005737px 18.8059005737px 0px 0px;
+}
+.catalog .rect1114 {
+  position: absolute;
+  top: 1690px;
+  right: 396px;
+  bottom: 924px;
+  left: 1478px;
+  width: 46px;
+  height: 26px;
+  background-color: #ffcfcf;
+  border-radius: 4.7014751434px 4.7014751434px 4.7014751434px 4.7014751434px;
+}
+.catalog .text414 {
+  position: absolute;
+  top: 1695.5px;
+  right: 400px;
+  bottom: 929.5px;
+  left: 1487px;
+  display: flex;
+  align-items: center;
+  width: 33px;
+  height: 15px;
+  font: 500 14.1044254303px/1 "Barlow", Helvetica, Arial, serif;
+  color: #e61919;
+}
+.catalog .subtitle14 {
+  position: absolute;
+  top: 2036.5px;
+  right: 387px;
+  bottom: 575.5px;
+  left: 1479px;
+  display: flex;
+  align-items: center;
+  width: 54px;
+  height: 28px;
+  font: 700 21.1566371918px/1.27 "Barlow", Helvetica, Arial, serif;
+  color: #0e0e0f;
+}
+.catalog .highlight515 {
+  position: absolute;
+  top: 2040px;
+  right: 179px;
+  bottom: 576px;
+  left: 1718px;
+  display: flex;
+  align-items: center;
+  width: 23px;
+  height: 24px;
+  font: 600 16.4551620483px/1.42 "Barlow", Helvetica, Arial, serif;
+  color: #0e0e0f;
+}
+.catalog .image1214 {
+  position: absolute;
+  top: 2042px;
+  right: 207px;
+  bottom: 581px;
+  left: 1697px;
+  width: 16px;
+  height: 17px;
+}
+.catalog .text514 {
+  position: absolute;
+  top: 1986px;
+  right: 392px;
+  bottom: 634px;
+  left: 1479px;
+  display: flex;
+  align-items: center;
+  width: 49px;
+  height: 20px;
+  font: 400 14.1044254303px/1.49 "Barlow", Helvetica, Arial, serif;
+  color: #747a84;
+}
+.catalog .rect1015 {
+  position: absolute;
+  top: 771px;
+  right: 1462px;
+  bottom: 1459px;
+  left: 160px;
+  width: 298px;
+  height: 410px;
+  background-color: white;
+  border-radius: 18.8059005737px 18.8059005737px 18.8059005737px 18.8059005737px;
+  box-shadow: 0px 2.3507375717px 7.0522127151px 0px rgba(32, 76, 136, 0.149);
+}
+.catalog .highlight49 {
+  position: absolute;
+  top: 1105.5px;
+  right: 1624px;
+  bottom: 1511.5px;
+  left: 179px;
+  display: flex;
+  align-items: center;
+  width: 117px;
+  height: 23px;
+  font: 600 17.630531311px/1.33 "Barlow", Helvetica, Arial, serif;
+  color: #0e0e0f;
+}
+.catalog .cover15 {
+  position: absolute;
+  top: 771px;
+  right: 1462px;
+  bottom: 1572px;
+  left: 161px;
+  width: 297px;
+  height: 297px;
+  border-radius: 18.8059005737px 18.8059005737px 0px 0px;
+}
+.catalog .rect1115 {
+  position: absolute;
+  top: 790px;
+  right: 1696px;
+  bottom: 1824px;
+  left: 178px;
+  width: 46px;
+  height: 26px;
+  background-color: #ffcfcf;
+  border-radius: 4.7014751434px 4.7014751434px 4.7014751434px 4.7014751434px;
+}
+.catalog .text415 {
+  position: absolute;
+  top: 795.5px;
+  right: 1700px;
+  bottom: 1829.5px;
+  left: 187px;
+  display: flex;
+  align-items: center;
+  width: 33px;
+  height: 15px;
+  font: 500 14.1044254303px/1 "Barlow", Helvetica, Arial, serif;
+  color: #e61919;
+}
+.catalog .subtitle15 {
+  position: absolute;
+  top: 1136.5px;
+  right: 1671px;
+  bottom: 1475.5px;
+  left: 179px;
+  display: flex;
+  align-items: center;
+  width: 70px;
+  height: 28px;
+  font: 700 21.1566371918px/1.27 "Barlow", Helvetica, Arial, serif;
+  color: #0e0e0f;
+}
+.catalog .highlight516 {
+  position: absolute;
+  top: 1140px;
+  right: 1479px;
+  bottom: 1476px;
+  left: 418px;
+  display: flex;
+  align-items: center;
+  width: 23px;
+  height: 24px;
+  font: 600 16.4551620483px/1.42 "Barlow", Helvetica, Arial, serif;
+  color: #0e0e0f;
+}
+.catalog .image1215 {
+  position: absolute;
+  top: 1142px;
+  right: 1507px;
+  bottom: 1481px;
+  left: 397px;
+  width: 16px;
+  height: 17px;
+}
+.catalog .text515 {
+  position: absolute;
+  top: 1084px;
+  right: 1695px;
+  bottom: 1535px;
+  left: 179px;
+  display: flex;
+  align-items: center;
+  width: 46px;
+  height: 21px;
+  font: 400 14.1044254303px/1.49 "Barlow", Helvetica, Arial, serif;
+  color: #747a84;
+}
+.catalog .rect1016 {
+  position: absolute;
+  top: 771px;
+  right: 1137px;
+  bottom: 1459px;
+  left: 485px;
+  width: 298px;
+  height: 410px;
+  background-color: white;
+  border-radius: 18.8059005737px 18.8059005737px 18.8059005737px 18.8059005737px;
+  box-shadow: 0px 2.3507375717px 7.0522127151px 0px rgba(32, 76, 136, 0.149);
+}
+.catalog .image16 {
+  position: absolute;
+  top: 1106px;
+  right: 1197px;
+  bottom: 1512px;
+  left: 504px;
+  width: 219px;
+  height: 22px;
+}
+.catalog .cover16 {
+  position: absolute;
+  top: 771px;
+  right: 1137px;
+  bottom: 1572px;
+  left: 486px;
+  width: 297px;
+  height: 297px;
+  border-radius: 18.8059005737px 18.8059005737px 0px 0px;
+}
+.catalog .rect1116 {
+  position: absolute;
+  top: 790px;
+  right: 1371px;
+  bottom: 1824px;
+  left: 503px;
+  width: 46px;
+  height: 26px;
+  background-color: #ffcfcf;
+  border-radius: 4.7014751434px 4.7014751434px 4.7014751434px 4.7014751434px;
+}
+.catalog .text416 {
+  position: absolute;
+  top: 795.5px;
+  right: 1375px;
+  bottom: 1829.5px;
+  left: 512px;
+  display: flex;
+  align-items: center;
+  width: 33px;
+  height: 15px;
+  font: 500 14.1044254303px/1 "Barlow", Helvetica, Arial, serif;
+  color: #e61919;
+}
+.catalog .subtitle16 {
+  position: absolute;
+  top: 1136.5px;
+  right: 1346px;
+  bottom: 1475.5px;
+  left: 504px;
+  display: flex;
+  align-items: center;
+  width: 70px;
+  height: 28px;
+  font: 700 21.1566371918px/1.27 "Barlow", Helvetica, Arial, serif;
+  color: #0e0e0f;
+}
+.catalog .highlight517 {
+  position: absolute;
+  top: 1140px;
+  right: 1154px;
+  bottom: 1476px;
+  left: 743px;
+  display: flex;
+  align-items: center;
+  width: 23px;
+  height: 24px;
+  font: 600 16.4551620483px/1.42 "Barlow", Helvetica, Arial, serif;
+  color: #0e0e0f;
+}
+.catalog .image1216 {
+  position: absolute;
+  top: 1142px;
+  right: 1182px;
+  bottom: 1481px;
+  left: 722px;
+  width: 16px;
+  height: 17px;
+}
+.catalog .text516 {
+  position: absolute;
+  top: 1084px;
+  right: 1370px;
+  bottom: 1535px;
+  left: 504px;
+  display: flex;
+  align-items: center;
+  width: 46px;
+  height: 21px;
+  font: 400 14.1044254303px/1.49 "Barlow", Helvetica, Arial, serif;
+  color: #747a84;
+}
+.catalog .rect1017 {
+  position: absolute;
+  top: 771px;
+  right: 812px;
+  bottom: 1459px;
+  left: 810px;
+  width: 298px;
+  height: 410px;
+  background-color: white;
+  border-radius: 18.8059005737px 18.8059005737px 18.8059005737px 18.8059005737px;
+  box-shadow: 0px 2.3507375717px 7.0522127151px 0px rgba(32, 76, 136, 0.149);
+}
+.catalog .image143 {
+  position: absolute;
+  top: 1097px;
+  right: 872px;
+  bottom: 1514px;
+  left: 829px;
+  width: 219px;
+  height: 29px;
+}
+.catalog .cover17 {
+  position: absolute;
+  top: 771px;
+  right: 812px;
+  bottom: 1572px;
+  left: 811px;
+  width: 297px;
+  height: 297px;
+  border-radius: 18.8059005737px 18.8059005737px 0px 0px;
+}
+.catalog .rect1117 {
+  position: absolute;
+  top: 790px;
+  right: 1046px;
+  bottom: 1824px;
+  left: 828px;
+  width: 46px;
+  height: 26px;
+  background-color: #ffcfcf;
+  border-radius: 4.7014751434px 4.7014751434px 4.7014751434px 4.7014751434px;
+}
+.catalog .text417 {
+  position: absolute;
+  top: 795.5px;
+  right: 1050px;
+  bottom: 1829.5px;
+  left: 837px;
+  display: flex;
+  align-items: center;
+  width: 33px;
+  height: 15px;
+  font: 500 14.1044254303px/1 "Barlow", Helvetica, Arial, serif;
+  color: #e61919;
+}
+.catalog .subtitle17 {
+  position: absolute;
+  top: 1136.5px;
+  right: 1033px;
+  bottom: 1475.5px;
+  left: 829px;
+  display: flex;
+  align-items: center;
+  width: 58px;
+  height: 28px;
+  font: 700 21.1566371918px/1.27 "Barlow", Helvetica, Arial, serif;
+  color: #0e0e0f;
+}
+.catalog .highlight518 {
+  position: absolute;
+  top: 1140px;
+  right: 829px;
+  bottom: 1476px;
+  left: 1068px;
+  display: flex;
+  align-items: center;
+  width: 23px;
+  height: 24px;
+  font: 600 16.4551620483px/1.42 "Barlow", Helvetica, Arial, serif;
+  color: #0e0e0f;
+}
+.catalog .image1217 {
+  position: absolute;
+  top: 1142px;
+  right: 857px;
+  bottom: 1481px;
+  left: 1047px;
+  width: 16px;
+  height: 17px;
+}
+.catalog .text517 {
+  position: absolute;
+  top: 1084px;
+  right: 1045px;
+  bottom: 1534px;
+  left: 829px;
+  display: flex;
+  align-items: center;
+  width: 46px;
+  height: 22px;
+  font: 400 14.1044254303px/1.49 "Barlow", Helvetica, Arial, serif;
+  color: #747a84;
+}
+.catalog .rect1018 {
+  position: absolute;
+  top: 771px;
+  right: 487px;
+  bottom: 1459px;
+  left: 1135px;
+  width: 298px;
+  height: 410px;
+  background-color: white;
+  border-radius: 18.8059005737px 18.8059005737px 18.8059005737px 18.8059005737px;
+  box-shadow: 0px 2.3507375717px 7.0522127151px 0px rgba(32, 76, 136, 0.149);
+}
+.catalog .highlight410 {
+  position: absolute;
+  top: 1103.5px;
+  right: 619px;
+  bottom: 1516.5px;
+  left: 1154px;
+  display: flex;
+  align-items: center;
+  width: 147px;
+  height: 20px;
+  font: 600 17.630531311px/1.33 "Barlow", Helvetica, Arial, serif;
+  color: #0e0e0f;
+}
+.catalog .cover18 {
+  position: absolute;
+  top: 771px;
+  right: 487px;
+  bottom: 1572px;
+  left: 1136px;
+  width: 297px;
+  height: 297px;
+  border-radius: 18.8059005737px 18.8059005737px 0px 0px;
+}
+.catalog .rect1118 {
+  position: absolute;
+  top: 790px;
+  right: 721px;
+  bottom: 1824px;
+  left: 1153px;
+  width: 46px;
+  height: 26px;
+  background-color: #ffcfcf;
+  border-radius: 4.7014751434px 4.7014751434px 4.7014751434px 4.7014751434px;
+}
+.catalog .text418 {
+  position: absolute;
+  top: 795.5px;
+  right: 722px;
+  bottom: 1829.5px;
+  left: 1162px;
+  display: flex;
+  align-items: center;
+  width: 36px;
+  height: 15px;
+  font: 500 14.1044254303px/1 "Barlow", Helvetica, Arial, serif;
+  color: #e61919;
+}
+.catalog .subtitle18 {
+  position: absolute;
+  top: 1136.5px;
+  right: 712px;
+  bottom: 1475.5px;
+  left: 1154px;
+  display: flex;
+  align-items: center;
+  width: 54px;
+  height: 28px;
+  font: 700 21.1566371918px/1.27 "Barlow", Helvetica, Arial, serif;
+  color: #0e0e0f;
+}
+.catalog .highlight519 {
+  position: absolute;
+  top: 1140px;
+  right: 504px;
+  bottom: 1476px;
+  left: 1393px;
+  display: flex;
+  align-items: center;
+  width: 23px;
+  height: 24px;
+  font: 600 16.4551620483px/1.42 "Barlow", Helvetica, Arial, serif;
+  color: #0e0e0f;
+}
+.catalog .image1218 {
+  position: absolute;
+  top: 1142px;
+  right: 532px;
+  bottom: 1481px;
+  left: 1372px;
+  width: 16px;
+  height: 17px;
+}
+.catalog .text518 {
+  position: absolute;
+  top: 1084px;
+  right: 715px;
+  bottom: 1537px;
+  left: 1154px;
+  display: flex;
+  align-items: center;
+  width: 51px;
+  height: 19px;
+  font: 400 14.1044254303px/1.49 "Barlow", Helvetica, Arial, serif;
+  color: #747a84;
+}
+.catalog .rect1019 {
+  position: absolute;
+  top: 771px;
+  right: 162px;
+  bottom: 1459px;
+  left: 1460px;
+  width: 298px;
+  height: 410px;
+  background-color: white;
+  border-radius: 18.8059005737px 18.8059005737px 18.8059005737px 18.8059005737px;
+  box-shadow: 0px 2.3507375717px 7.0522127151px 0px rgba(32, 76, 136, 0.149);
+}
+.catalog .highlight411 {
+  position: absolute;
+  top: 1103.5px;
+  right: 303px;
+  bottom: 1516.5px;
+  left: 1479px;
+  display: flex;
+  align-items: center;
+  width: 138px;
+  height: 20px;
+  font: 600 17.630531311px/1.33 "Barlow", Helvetica, Arial, serif;
+  color: #0e0e0f;
+}
+.catalog .cover19 {
+  position: absolute;
+  top: 771px;
+  right: 162px;
+  bottom: 1572px;
+  left: 1461px;
+  width: 297px;
+  height: 297px;
+  border-radius: 18.8059005737px 18.8059005737px 0px 0px;
+}
+.catalog .rect1119 {
+  position: absolute;
+  top: 790px;
+  right: 396px;
+  bottom: 1824px;
+  left: 1478px;
+  width: 46px;
+  height: 26px;
+  background-color: #ffcfcf;
+  border-radius: 4.7014751434px 4.7014751434px 4.7014751434px 4.7014751434px;
+}
+.catalog .text419 {
+  position: absolute;
+  top: 795.5px;
+  right: 400px;
+  bottom: 1829.5px;
+  left: 1487px;
+  display: flex;
+  align-items: center;
+  width: 33px;
+  height: 15px;
+  font: 500 14.1044254303px/1 "Barlow", Helvetica, Arial, serif;
+  color: #e61919;
+}
+.catalog .subtitle19 {
+  position: absolute;
+  top: 1136.5px;
+  right: 371px;
+  bottom: 1475.5px;
+  left: 1479px;
+  display: flex;
+  align-items: center;
+  width: 70px;
+  height: 28px;
+  font: 700 21.1566371918px/1.27 "Barlow", Helvetica, Arial, serif;
+  color: #0e0e0f;
+}
+.catalog .highlight520 {
+  position: absolute;
+  top: 1140px;
+  right: 179px;
+  bottom: 1476px;
+  left: 1718px;
+  display: flex;
+  align-items: center;
+  width: 23px;
+  height: 24px;
+  font: 600 16.4551620483px/1.42 "Barlow", Helvetica, Arial, serif;
+  color: #0e0e0f;
+}
+.catalog .image1219 {
+  position: absolute;
+  top: 1142px;
+  right: 207px;
+  bottom: 1481px;
+  left: 1697px;
+  width: 16px;
+  height: 17px;
+}
+.catalog .text519 {
+  position: absolute;
+  top: 1084px;
+  right: 395px;
+  bottom: 1537px;
+  left: 1479px;
+  display: flex;
+  align-items: center;
+  width: 46px;
+  height: 19px;
+  font: 400 14.1044254303px/1.49 "Barlow", Helvetica, Arial, serif;
+  color: #747a84;
+}
+.catalog .medium_title_box {
+  position: absolute;
+  top: 50px;
+  right: 1620px;
+  bottom: 2566px;
+  left: 161px;
+  display: flex;
+  align-items: center;
+  width: 139px;
+  height: 24px;
+}
+.catalog .medium_title {
+  font: 400 24px/1 "Baloo", Helvetica, Arial, serif;
+  color: black;
+}
+.catalog .medium_title_span0 {
+  font: 1em/0.83 "Baloo", Helvetica, Arial, serif;
+  color: #0b98ff;
+}
+.catalog .medium_title_span1 {
+  font: 0.8333333333em/1 "Baloo", Helvetica, Arial, serif;
+}
+.catalog .medium_title_span2 {
+  font: 1em/0.83 "Baloo Cyrillic", Helvetica, Arial, serif;
+  color: #0b98ff;
+}
+.catalog .highlight61 {
+  position: absolute;
+  top: 54px;
+  right: 1361px;
+  bottom: 2566px;
+  left: 506px;
+  display: flex;
+  align-items: center;
+  width: 53px;
+  height: 20px;
+  font: 500 16px/1.25 "Barlow", Helvetica, Arial, serif;
+  color: #0e0e0f;
+}
+.catalog .highlight62 {
+  position: absolute;
+  top: 54px;
+  right: 1275px;
+  bottom: 2566px;
+  left: 593px;
+  display: flex;
+  align-items: center;
+  width: 52px;
+  height: 20px;
+  font: 500 16px/1.25 "Barlow", Helvetica, Arial, serif;
+  color: #0e0e0f;
+}
+.catalog .highlight63 {
+  position: absolute;
+  top: 54px;
+  right: 1198px;
+  bottom: 2566px;
+  left: 680px;
+  display: flex;
+  align-items: center;
+  width: 42px;
+  height: 20px;
+  font: 500 16px/1.25 "Barlow", Helvetica, Arial, serif;
+  color: #0e0e0f;
+}
+.catalog .cover110 {
+  position: absolute;
+  top: 36px;
+  right: 1436px;
+  bottom: 2548px;
+  left: 337px;
+  width: 147px;
+  height: 56px;
+  border-radius: 15px 15px 15px 15px;
+}
+.catalog .subtitle110 {
+  position: absolute;
+  top: 55px;
+  right: 1461px;
+  bottom: 2565px;
+  left: 386px;
+  display: flex;
+  align-items: center;
+  width: 73px;
+  height: 20px;
+  font: 500 20px/1 "Barlow", Helvetica, Arial, serif;
+  color: white;
+}
+.catalog .image17 {
+  position: absolute;
+  top: 49px;
+  right: 1535px;
+  bottom: 2560px;
+  left: 354px;
+  width: 31px;
+  height: 31px;
+}
+.catalog .rect12 {
+  position: absolute;
+  top: 46px;
+  right: 323px;
+  bottom: 2550px;
+  left: 1028px;
+  width: 569px;
+  height: 44px;
+  background-color: #f4f5f9;
+  border-radius: 8px 8px 8px 8px;
+}
+.catalog .image211 {
+  position: absolute;
+  top: 57px;
+  right: 643px;
+  bottom: 3056px;
+  left: 1077px;
+  width: 500px;
+  height: 20px;
+  background-color : #f4f5f9;
+  border: 1px solid transparent;
+  border-radius: 20px 20px 20px 20px;
+  transition:0.5s;
+}
+
+.catalog .image211:hover {
+  background-color: #ffffff;
+}
+
+.catalog .image211:focus {
+  background-color: #ffffff;
+}
+.catalog .image22 {
+  position: absolute;
+  top: 57px;
+  right: 858px;
+  bottom: 2563px;
+  left: 1042px;
+  width: 20px;
+  height: 20px;
+}
+.catalog .rect13 {
+  position: absolute;
+  top: 50px;
+  right: 161px;
+  bottom: 2550px;
+  left: 1650px;
+  width: 109px;
+  height: 40px;
+  background-color: rgba(255, 255, 255, 0);
+  border-radius: 20px 20px 20px 20px;
+  box-shadow: inset 0px 0px 0px 1px #0e0e0f;
+}
+.catalog .highlight7 {
+  position: absolute;
+  top: 62px;
+  right: 190.5px;
+  bottom: 2562px;
+  left: 1680.5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 49px;
+  height: 16px;
+  font: 600 16px/1 "Barlow", Helvetica, Arial, serif;
+  color: #0e0e0f;
+  text-align: center;
+}
