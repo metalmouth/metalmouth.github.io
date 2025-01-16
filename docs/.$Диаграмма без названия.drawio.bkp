@@ -1,0 +1,85 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Страница — 1" id="cfMz1B1037dc99auOzqI">
+    <mxGraphModel dx="674" dy="1199" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZYFznnXL1SsV9UCFpAr4-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#457B9D;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#1D3557;fillColor=#A8DADC;curved=1;" edge="1" parent="1" source="ZYFznnXL1SsV9UCFpAr4-2" target="ZYFznnXL1SsV9UCFpAr4-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYFznnXL1SsV9UCFpAr4-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#457B9D;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#1D3557;fillColor=#A8DADC;curved=1;" edge="1" parent="1" source="ZYFznnXL1SsV9UCFpAr4-2" target="ZYFznnXL1SsV9UCFpAr4-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYFznnXL1SsV9UCFpAr4-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#457B9D;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#1D3557;fillColor=#A8DADC;curved=1;" edge="1" parent="1" source="ZYFznnXL1SsV9UCFpAr4-2" target="ZYFznnXL1SsV9UCFpAr4-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYFznnXL1SsV9UCFpAr4-2" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;Структура сайта&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=44;fillColor=#A8DADC;strokeColor=#457B9D;fontFamily=Helvetica;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="385" y="384" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYFznnXL1SsV9UCFpAr4-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Главная страница&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;rounded=1;arcSize=21;fontFamily=Helvetica;fontSize=12;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="175" y="130" width="210" height="188" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYFznnXL1SsV9UCFpAr4-6" value="Шапка сайта" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Helvetica;fontSize=14;fontColor=#1D3557;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="ZYFznnXL1SsV9UCFpAr4-5">
+          <mxGeometry y="26" width="210" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYFznnXL1SsV9UCFpAr4-7" value="Рекламная секция" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Helvetica;fontSize=14;fontColor=#1D3557;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="ZYFznnXL1SsV9UCFpAr4-5">
+          <mxGeometry y="52" width="210" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYFznnXL1SsV9UCFpAr4-8" value="Популярные товары (сетка)" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Helvetica;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;fontColor=#1D3557;" vertex="1" parent="ZYFznnXL1SsV9UCFpAr4-5">
+          <mxGeometry y="78" width="210" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYFznnXL1SsV9UCFpAr4-9" value="Баннеры" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Helvetica;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;fontColor=#1D3557;" vertex="1" parent="ZYFznnXL1SsV9UCFpAr4-5">
+          <mxGeometry y="110" width="210" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYFznnXL1SsV9UCFpAr4-10" value="Актуальные товары (сетка)" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Helvetica;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;fontColor=#1D3557;" vertex="1" parent="ZYFznnXL1SsV9UCFpAr4-5">
+          <mxGeometry y="136" width="210" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYFznnXL1SsV9UCFpAr4-11" value="Футер" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Helvetica;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;fontColor=#1D3557;" vertex="1" parent="ZYFznnXL1SsV9UCFpAr4-5">
+          <mxGeometry y="162" width="210" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYFznnXL1SsV9UCFpAr4-15" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Каталог товаров&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;rounded=1;arcSize=21;fontFamily=Helvetica;fontSize=12;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="175" y="520" width="210" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYFznnXL1SsV9UCFpAr4-16" value="Фильтры" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Helvetica;fontSize=14;fontColor=#1D3557;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="ZYFznnXL1SsV9UCFpAr4-15">
+          <mxGeometry y="26" width="210" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYFznnXL1SsV9UCFpAr4-17" value="Сетка товаров" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Helvetica;fontSize=14;fontColor=#1D3557;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="ZYFznnXL1SsV9UCFpAr4-15">
+          <mxGeometry y="52" width="210" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYFznnXL1SsV9UCFpAr4-18" value="Навигация (хлебные крошки)" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Helvetica;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;fontColor=#1D3557;" vertex="1" parent="ZYFznnXL1SsV9UCFpAr4-15">
+          <mxGeometry y="78" width="210" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYFznnXL1SsV9UCFpAr4-23" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Страница товара&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;rounded=1;arcSize=21;fontFamily=Helvetica;fontSize=12;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="785" y="148" width="210" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYFznnXL1SsV9UCFpAr4-24" value="Изображение товара" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Helvetica;fontSize=14;fontColor=#1D3557;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="ZYFznnXL1SsV9UCFpAr4-23">
+          <mxGeometry y="26" width="210" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYFznnXL1SsV9UCFpAr4-25" value="Кнопки действий" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Helvetica;fontSize=14;fontColor=#1D3557;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="ZYFznnXL1SsV9UCFpAr4-23">
+          <mxGeometry y="52" width="210" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYFznnXL1SsV9UCFpAr4-26" value="Информация о способах покупки" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Helvetica;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;fontColor=#1D3557;" vertex="1" parent="ZYFznnXL1SsV9UCFpAr4-23">
+          <mxGeometry y="78" width="210" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYFznnXL1SsV9UCFpAr4-28" value="Дополнительная информация" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Helvetica;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;fontColor=#1D3557;" vertex="1" parent="ZYFznnXL1SsV9UCFpAr4-23">
+          <mxGeometry y="120" width="210" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYFznnXL1SsV9UCFpAr4-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.528;entryY=1.013;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#457B9D;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#1D3557;fillColor=#A8DADC;curved=1;" edge="1" parent="1" source="ZYFznnXL1SsV9UCFpAr4-2" target="ZYFznnXL1SsV9UCFpAr4-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYFznnXL1SsV9UCFpAr4-32" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Личный кабинет&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;rounded=1;arcSize=21;fontFamily=Helvetica;fontSize=12;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="785" y="520" width="210" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYFznnXL1SsV9UCFpAr4-33" value="Профиль пользователя" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Helvetica;fontSize=14;fontColor=#1D3557;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="ZYFznnXL1SsV9UCFpAr4-32">
+          <mxGeometry y="26" width="210" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYFznnXL1SsV9UCFpAr4-34" value="История заказов" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Helvetica;fontSize=14;fontColor=#1D3557;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="ZYFznnXL1SsV9UCFpAr4-32">
+          <mxGeometry y="52" width="210" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYFznnXL1SsV9UCFpAr4-35" value="Избранное" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Helvetica;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;fontColor=#1D3557;" vertex="1" parent="ZYFznnXL1SsV9UCFpAr4-32">
+          <mxGeometry y="78" width="210" height="32" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

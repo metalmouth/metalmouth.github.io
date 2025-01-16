@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ShoPoЦенам</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    
+    <header>
+    <div class="container">
+        <nav class="navbar">
+            <div class="left-section">
+                <a href="javascript:window.location.href=window.location.href" class="logo">
+                    <span class="logo-part1">ShoPo</span><span class="logo-part2">Ценам</span>
+                </a>
+                <a href="./catalog/catalog.html" class="catalog-btn">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-grid-3x3-gap-fill" viewBox="0 0 16 16">
+                        <path d="M1 2a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1v2a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1V2zm5 0a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1v2a1 1 0 0 1-1 1H7a1 1 0 0 1-1-1V2zm5 0a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1v2a1 1 0 0 1-1 1h-2a1 1 0 0 1-1-1V2zM1 7a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1v2a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1V7zm5 0a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1v2a1 1 0 0 1-1 1H7a1 1 0 0 1-1-1V7zm5 0a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1v2a1 1 0 0 1-1 1h-2a1 1 0 0 1-1-1V7zM1 12a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1v2a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1v-2zm5 0a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1v2a1 1 0 0 1-1 1H7a1 1 0 0 1-1-1v-2zm5 0a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1v2a1 1 0 0 1-1 1h-2a1 1 0 0 1-1-1v-2z"/>
+                    </svg>
+                    Каталог
+                </a>
+            </div>
+            <div class="right-section">
+                <div class="search-container">
+                    <div class="search-bar">
+                        <input type="text" id="searchInput" class="search-input" placeholder="Найти на ShoPoЦенам">
+                        <button type="submit" id="searchButton">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-search" viewBox="0 0 16 16">
+                                <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"/>
+                            </svg>
+                        </button>
+                    </div>
+                </div>
+                <a class="login-btn">Войти</a>
+            </div>
+        </nav>
+    </div>
+    </header>
+
+    <main>
+        <section class="hero">
+            <div class="hero-container">
+                <div class="hero-grid">
+                    <div class="hero-item hero-item-large hero-item-human">
+                        <img src="./images/heroes/hero1.svg" alt="Новинки недели">
+                        <div class="hero-item-text">
+                            <h3>Новинки <br>недели</h3>
+                        </div>
+                    </div>
+                    <div class="hero-item">
+                        <img src="./images/heroes/hero2.jpg" alt="Культовые модели">
+                        <div class="hero-item-text">
+                            <h3>Культовые <br>модели</h3>
+                        </div>
+                    </div>
+                    <div class="hero-item">
+                        <img src="./images/heroes/hero3.jpg" alt="Свежий взгляд">
+                        <div class="hero-item-text">
+                            <h3>Свежий <br>взгляд</h3>
+                        </div>
+                    </div>
+                    <div class="hero-item hero-item-large hero-item-human">
+                        <img src="./images/heroes/hero4.svg" alt="Вырази свой стиль">
+                        <div class="hero-item-text">
+                            <h3>Вырази <br>свой стиль</h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+            <div class="text-block-content"><h2>Популярное</h2></div>
+
+        <div class="product-grid" id="popularProducts"></div>
+    
+
+        <div class="banner-grid">
+            <div class="banner">
+                <img src="images/banners/1.svg" alt="Shoes">
+                <div class="banner-text">Скидки до 50%</div>
+            </div>
+            <div class="banner">
+                <img src="images/banners/2.png" alt="Bags">
+                <div class="banner-text">Сумки недели</div>
+            </div>
+            <div class="banner">
+                <img src="images/banners/3.png" alt="New Arrivals">
+                <div class="banner-text">Новинки<br>весны</div>
+            </div>
+        </div>
+
+        <div class="text-block-content"><h2>Актуальное</h2></div>
+        <div class="product-grid actual-grid" id="actualProducts"></div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>ShoPoЦенам</h3>
+                    <ul>
+                        <li><a href="#">О нас</a></li>
+                        <li><a href="#">Реквизиты</a></li>
+                        <li><a href="#">Контакты</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h3>Оплата</h3>
+                    <ul>
+                        <li><a href="#">Реквизиты</a></li>
+                        <li><a href="#">Регламент правил пунктов</a></li>
+                        <li><a href="#">Магазины</a></li>
+                        <li><a href="#">Конфиденциальность</a></li>
+                        <li><a href="#">Вопросы и пожелания по сайту</a></li>
+                    </ul>
+                </div>
+                <button id="scrollToTopBtn" title="Наверх">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-up" viewBox="0 0 16 16">
+                        <path fill-rule="evenodd" d="M8 15a.5.5 0 0 0 .5-.5V2.707l3.146 3.147a.5.5 0 0 0 .708-.708l-4-4a.5.5 0 0 0-.708 0l-4 4a.5.5 0 1 0 .708.708L7.5 2.707V14.5a.5.5 0 0 0 .5.5z"/>
+                    </svg>
+                </button>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
