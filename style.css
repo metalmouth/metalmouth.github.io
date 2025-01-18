@@ -243,7 +243,9 @@ input.search-input, textarea {  background: #e6e3e3; }
     gap: 10px;
 }
 
-
+.search-container {
+    margin-left: -18px;
+}
 
 
 .nav-actions {
@@ -261,6 +263,14 @@ input.search-input, textarea {  background: #e6e3e3; }
         justify-content: center;
 
     }
+
+    .login-btn {
+        box-sizing: border-box;
+        width: 117.95px;
+    }
+
+
+
     .left-section, .right-section {
         width: 100%;
         justify-content: space-between;
@@ -413,7 +423,7 @@ input.search-input, textarea {  background: #e6e3e3; }
 
     .hero-item {
         display: none; /* Скрываем все элементы */
-        aspect-ratio: auto; /* Убираем фиксированное соотношение сторон */
+        aspect-ratio: 1:1; /* Убираем фиксированное соотношение сторон */
         height: 100%; /* Занимает всю высоту */
         border-radius: 0; /* Убираем скругление углов */
     }
@@ -422,14 +432,12 @@ input.search-input, textarea {  background: #e6e3e3; }
         display: block; /* Показываем только первый элемент */
         width: 100%; /* Занимает всю ширину */
         height: 100%; /* Занимает всю высоту */
+        transform: scale(1.12);
     }
 
     .hero-item img {
         border-radius: 0; /* Убираем скругление углов */
     }
-
-
-
 
     .hero-container {
         padding: 0;
