@@ -67,13 +67,14 @@ header {
 }
 
 .logo {
-    font-size: 1.8rem;
-    font-weight: 600;
-    min-width: 150px;
-    flex-shrink: 0;
-    text-decoration: none;
+
     display: flex;
     align-items: center;
+
+    background-size: cover;
+    height: 50px;
+    width: auto;
+
 }
 
 .logo-part1 {
@@ -86,11 +87,13 @@ header {
 
 
 .logo-image {
-    height: 60px; /* Настройте высоту по вашему усмотрению */
-    width: auto; /* Сохраняет пропорции изображения */
+    display: flex;
+    align-items: center;
+
 }
 
-.catalog-btn {
+/* Общие стили для кнопок */
+.catalog-btn, .login-btn {
     background-color: #0d6efd;
     color: white;
     border: none;
@@ -102,6 +105,7 @@ header {
     align-items: center;
     transition: background-color 250ms linear;
 }
+
 
 }
 
@@ -238,7 +242,7 @@ input.search-input, textarea {  background: #e6e3e3; }
 @media (max-width: 768px) {
 
     .navbar {
-        flex-direction: column; /* Stack navbar elements vertically */
+      
         align-items: center;    /* Center horizontally */
     }
 
